@@ -14,7 +14,7 @@ import "./myCoin.css";
 
 
 function App(){
-        // return <h1>Akshay</h1>
+       
 
         const [myCoins,setMyCoins]=useState([]);  //taking an array to store the data taken by axios
         const [search,setSearch]=useState("");
